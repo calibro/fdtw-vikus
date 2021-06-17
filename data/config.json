@@ -4,21 +4,21 @@
       "quality": 1
    },
     "loader": {
-      "info": "http://127.0.0.1:8080/data/info.md",
-      "timeline": "http://127.0.0.1:8080/data/timeline.csv",
-      "items": "http://127.0.0.1:8080/data/data.csv",
+      "info": "http://calib.ro/fdtw-vikus/data/info.md",
+      "timeline": "http://calib.ro/fdtw-vikus/data/timeline.csv",
+      "items": "http://calib.ro/fdtw-vikus/data/data.csv",
       "textures": {
         "medium": {
           "size": 256,
-          "url": "http://127.0.0.1:8080/data/sprites/spritesheet.json"
+          "url": "http://calib.ro/fdtw-vikus/data/sprites/spritesheet.json"
         },
         "detail": {
           "size": 1024,
-          "url": "http://127.0.0.1:8080/data/1024/"
+          "url": "http://calib.ro/fdtw-vikus/data/1024/"
         },
         "big": {
           "size": 4096,
-          "url": "http://127.0.0.1:8080/data/4096/"
+          "url": "http://calib.ro/fdtw-vikus/data/4096/"
         }
       }
     },
